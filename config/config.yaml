@@ -1,0 +1,9 @@
+---
+vm:
+  box: precise64
+  url: http://files.vagrantup.com/precise64.box
+  hostname: precise64server
+  ip: 192.168.56.111
+  ram: 256
+  hostport: 4567
+
